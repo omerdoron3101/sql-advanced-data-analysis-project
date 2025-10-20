@@ -1,6 +1,5 @@
 # Advanced Data Analytics Project: Retail Sales Analytics
 
-Welcome to the **Advanced Data Analysis Project** project!  
 This project demonstrates **comprehensive SQL-based analysis** on a retail sales dataset.  
 The goal is to extract **actionable business insights** from historical sales data, customer behaviors, and product performance.
 
